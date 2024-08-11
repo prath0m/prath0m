@@ -41,6 +41,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prath0m&layout=compact&theme=dracula" height="150" alt="Most Used Languages" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=prath0m&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
 </div>
 
@@ -59,14 +65,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prath0m&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=prath0m&icon=8&color=9" alt="Profile Views" />
   </a>
 </div>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
