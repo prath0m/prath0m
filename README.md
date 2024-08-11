@@ -72,14 +72,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/prath0m/count.svg?"  />
-</div>
-
-###
-
-<p align="center"></p>
-
 [![](https://visitcount.itsvg.in/api?id=prath0m&icon=8&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
