@@ -59,7 +59,14 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prath0m&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=prath0m&icon=8&color=9" alt="Profile Views" />
   </a>
 </div>
+
