@@ -66,12 +66,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/prath0m/prath0m/output/snake.svg" alt="Snake animation" />
-
-###
-
 [![](https://visitcount.itsvg.in/api?id=prath0m&icon=8&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
