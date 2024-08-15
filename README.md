@@ -38,27 +38,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prath0m&layout=compact&theme=dracula" height="150" alt="Most Used Languages" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prath0m&show_icons=true&locale=en&layout=compact" alt="prath0m" /></p>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prath0m&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
-</div>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prath0m&show_icons=true&locale=en" alt="prath0m" /></p>
+ 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prath0m&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prath0m&radius=16&theme=react&area=true&order=5" height="300" alt="Activity Graph" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prath0m&" alt="prath0m" /></p>
 
 ###
 
