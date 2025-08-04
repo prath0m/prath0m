@@ -4,10 +4,6 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prath0m&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/prath0m?label=Follow&style=social" alt="GitHub Followers" />
-</div>
 
 ---
 
@@ -48,46 +44,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  
-
-  
-  [![Metrics](https://metrics.lecoq.io/prath0m?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FKolkata)](https://metrics.lecoq.io)
-
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=prath0m&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prath0m&theme=radical" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prath0m&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prath0m&theme=radical" width="48%" />
-  
-</div>
-
----
-
-### 🎯 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123] in [repository] - "Implemented JWT authentication"
-2. 🚀 Created new branch for feature/user-dashboard
-3. 💪 Opened issue #45 in [project] - "Bug in API response"
-4. 🛠️ Fixed CI/CD pipeline configuration
-5. 📚 Updated documentation for v2.0 release
-<!--END_SECTION:activity-->
-
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=prath0m&theme=onedark&no-frame=true&row=1&column=7)
-  
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
@@ -110,5 +66,3 @@
 </div>
 
 ---
-
-⭐️ From [Prathamesh Kale](https://github.com/prath0m)
