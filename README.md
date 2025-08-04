@@ -119,7 +119,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/prath0m/prath0m/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marketplace/actions/generate-snake-game-from-github-contributions)
   
 </div>
 
