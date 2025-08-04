@@ -78,13 +78,6 @@
 5. 📚 Updated documentation for v2.0 release
 <!--END_SECTION:activity-->
 
----
-
-### 🔥 Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prath0m&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ### 🏆 GitHub Trophies
 
@@ -105,12 +98,6 @@
   </a>
   <a href="mailto:prath0mkale@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/prath0m">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/prath0m/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
 </div>
