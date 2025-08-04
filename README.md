@@ -105,7 +105,7 @@
 
 <div align="center">
   
- ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+ [![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://platane.github.io/snk)
   
 </div>
 
