@@ -13,10 +13,6 @@
 
 ### 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="Coding GIF">
-</div>
-
 - 🔭 Currently working on **microservices architecture**
 - 🌱 Learning **Go (Golang) & Kubernetes**
 - 👯 Looking to collaborate on **open source projects**
@@ -56,7 +52,10 @@
 
 <div align="center">
   
-  ![Metrics](https://metrics.lecoq.io/prath0m?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stars=1&stars.limit=4&config.timezone=Asia%2FKolkata)
+
+  
+  [![Metrics](https://metrics.lecoq.io/prath0m?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FKolkata)](https://metrics.lecoq.io)
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=prath0m&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prath0m&theme=radical" width="48%" />
