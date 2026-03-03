@@ -13,7 +13,6 @@
 - 🌱 Learning **Go (Golang) & Kubernetes**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **Java, Spring Boot, or System Design**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
 
@@ -54,14 +53,6 @@
   <a href="mailto:prath0mkale@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-</div>
-
----
-
-<div align="center">
-  
- [![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://platane.github.io/snk)
   
 </div>
 
