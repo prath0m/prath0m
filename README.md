@@ -24,8 +24,6 @@
 | 🏗️ [Production-Grade Spring Boot Platform](link) | Reference deployment: Helm per-env values, Tekton CI/CD, SSO, vault-managed secrets, probes & autoscaling | Spring Boot, Helm, Tekton, Keycloak, Conjur |
 | ⚡ [Real-Time Streaming Pipeline](link) | Multi-region event pipeline with schema registry, stream processing and object-storage sink | Kafka, Spark, MinIO, Docker |
 | 🧱 [Databricks Medallion Pipeline](link) | Bronze → Silver → Gold lakehouse with documented Spark performance tuning | Databricks, PySpark, Delta Lake |
-| 📰 [NewsHub](link) | YouTube news intelligence across 15 countries with typo-tolerant search and scheduled ingestion | Python, FastAPI, Meilisearch, SQLite |
-| 🎬 [StreamVault](link) | Desktop downloader with multi-extractor routing and a browser extension | Python, yt-dlp, FFmpeg, WebSockets |
 
 ---
 
