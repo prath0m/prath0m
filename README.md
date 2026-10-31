@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Prathamesh%20Kale&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Data%20Engineer&descAlignY=58&descSize=16" width="100%" />
+<h1>Hi 👋, I'm Prathamesh Kale</h1>
+<h3>Backend & Data Engineer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=00F718&center=true&vCenter=true&width=650&lines=Spring+Boot+microservices+on+OpenShift;Real-time+pipelines+with+Kafka+%26+Spark;Lakehouse+engineering+on+Databricks;Constraint+optimization+%2B+LLM+systems" />
 
@@ -150,4 +151,3 @@ Detailed case studies of my projects (architecture, decisions and results) are i
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
