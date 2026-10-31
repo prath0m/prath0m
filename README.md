@@ -1,71 +1,153 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00F718&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Kale;Backend+%26+Data+Engineer;Kafka+%C2%B7+Spark+%C2%B7+Databricks+%C2%B7+OpenShift;Building+production-grade+systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Prathamesh%20Kale&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Data%20Engineer&descAlignY=58&descSize=16" width="100%" />
 
-**BE IT (AIML Honors) @ PICT '26 · CGPA 9.5 · Pune, India**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=00F718&center=true&vCenter=true&width=650&lines=Spring+Boot+microservices+on+OpenShift;Real-time+pipelines+with+Kafka+%26+Spark;Lakehouse+engineering+on+Databricks;Constraint+optimization+%2B+LLM+systems" />
+
+<p>
+<img src="https://img.shields.io/badge/📍_Pune,_India-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓_BE_IT_(AIML_Honors)_@_PICT_'26-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/CGPA-9.5-00C853?style=flat-square" />
+</p>
 
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🏢 Building and deploying **Spring Boot microservices, React apps and data pipelines** on OpenShift in enterprise environments
-- 📊 Data engineering with **Kafka, Spark, Databricks, Couchbase and Snowflake**
-- 🔐 Enterprise integration: **SSO (PingAccess), CyberArk secrets, Helm and Tekton CI/CD**
-- 🤖 Building AI systems: constraint optimization + LLMs for railway traffic scheduling
+
+I build backend services, data pipelines and the platforms they run on, from writing the Spring Boot service to shipping it through CI/CD and keeping it healthy in production.
+
+- 🏢 Deploying **Spring Boot microservices and React apps** on OpenShift with Helm and Tekton in enterprise environments
+- 📊 Engineering data pipelines across **Kafka, Spark, Databricks, Couchbase and Snowflake**
+- 🔐 Integrating enterprise security: **SSO (PingAccess), CyberArk secrets management, access governance**
+- 🤖 Building AI systems that combine **constraint optimization (OR-Tools) with LLMs**
 
 ---
 
-### 🚀 Featured Projects
+### 🧭 What I Work On
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🚆 [AI Railway Traffic Scheduler](link) | Decision-support system that resolves train conflicts with constraint optimization; LLM converts operator commands into solver constraints | OR-Tools CP-SAT, FastAPI, LLMs, Docker |
-| 🏗️ [Production-Grade Spring Boot Platform](link) | Reference deployment: Helm per-env values, Tekton CI/CD, SSO, vault-managed secrets, probes & autoscaling | Spring Boot, Helm, Tekton, Keycloak, Conjur |
-| ⚡ [Real-Time Streaming Pipeline](link) | Multi-region event pipeline with schema registry, stream processing and object-storage sink | Kafka, Spark, MinIO, Docker |
-| 🧱 [Databricks Medallion Pipeline](link) | Bronze → Silver → Gold lakehouse with documented Spark performance tuning | Databricks, PySpark, Delta Lake |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚙️ Backend & Platform**
+
+Spring Boot microservices<br>
+REST APIs & API security<br>
+Helm · Tekton · OpenShift<br>
+Production debugging & ops
+
+</td>
+<td width="33%" valign="top">
+
+**📊 Data Engineering**
+
+Real-time streaming (Kafka)<br>
+Spark & Databricks pipelines<br>
+Medallion lakehouse design<br>
+Access & data governance
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 AI & Optimization**
+
+Constraint solving (CP-SAT)<br>
+LLM-driven interfaces<br>
+Decision-support systems<br>
+FastAPI ML services
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Experience Snapshot
+
+| Role | Focus |
+|---|---|
+| **Data & Cloud Engineer** · Enterprise financial services | Microservices, data pipelines and CI/CD on OpenShift, Azure and Databricks |
+| **Freelance Engineer** · Big data & API security | Multi-region streaming pipelines, Kerberos-secured ingestion to S3, Harness CI/CD |
+| **Software Developer** · Innokarma Solutions | 15+ Spring Boot microservices, middleware integration, SonarQube quality gates |
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-**Backend & Frontend**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Languages**<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Data**
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Backend & Frontend**<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-**Cloud & DevOps**
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![CyberArk](https://img.shields.io/badge/CyberArk-00ADEF?style=flat-square&logoColor=white)
+**Data**<br>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Cloud & DevOps**<br>
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
+**Security & Observability**<br>
+<img src="https://img.shields.io/badge/CyberArk-00ADEF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SSO_/_PingAccess-B3282D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+
+</div>
 
 ---
 
-### 📄 More
-📑 [Portfolio PDF](link) · 🎥 [Project Demos](link) · 🌐 [sartoria.systems](https://sartoria.systems)
+### 📑 Portfolio
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prath0m)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshkale902@gmail.com)
+<div align="center">
+
+Detailed case studies of my projects (architecture, decisions and results) are in my portfolio.
+
+<a href="link">
+<img src="https://img.shields.io/badge/📄_View_My_Portfolio-00C853?style=for-the-badge&logoColor=white" height="40" />
+</a>
+
+</div>
+
+---
+
+### 🏅 Certifications
+
+- 🍃 **MongoDB Database Admin Path** (Associate Developer – Java) · MongoDB University
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/prath0m"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:prathameshkale902@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://sartoria.systems"><img src="https://img.shields.io/badge/Website-sartoria.systems-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
