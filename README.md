@@ -122,7 +122,7 @@ FastAPI ML services
 
 ### 📑 Portfolio
 
-<div align="center">
+<div align="center" src"https://drive.google.com/file/d/1SYiAcusLqZtqQHJzVRFSwdCR4IbAPoQB/view?usp=share_link">
 
 Detailed case studies of my projects (architecture, decisions and results) are in my portfolio.
 
