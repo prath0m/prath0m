@@ -122,12 +122,12 @@ FastAPI ML services
 
 ### 📑 Portfolio
 
-<div align="center" src"https://drive.google.com/file/d/1SYiAcusLqZtqQHJzVRFSwdCR4IbAPoQB/view?usp=share_link">
+<div align="center">
 
 Detailed case studies of my projects (architecture, decisions and results) are in my portfolio.
 
-<a href="link">
-<img src="https://img.shields.io/badge/📄_View_My_Portfolio-00C853?style=for-the-badge&logoColor=white" height="40" />
+<a href="https://drive.google.com/file/d/1SYiAcusLqZtqQHJzVRFSwdCR4IbAPoQB/view?usp=share_link">
+  <img src="https://img.shields.io/badge/📄_View_My_Portfolio-00C853?style=for-the-badge&logoColor=white" height="40" />
 </a>
 
 </div>
